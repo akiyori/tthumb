@@ -1,0 +1,3 @@
+[DEFAULT]
+FFMPEG_BIN=C:/Program Files/ffmpeg/bin
+DEFAULT_TARGET=
